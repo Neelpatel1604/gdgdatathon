@@ -14,7 +14,7 @@ export default function AboutSection() {
       name: "48 Hours",
       icon: <Clock className="w-6 h-6" />,
       title: "Intensive Development Period",
-      description: "Participants have 48 continuous hours to develop innovative data science solutions. This intensive format encourages rapid prototyping, creative problem-solving, and collaborative innovation under time pressure with fellow participants.",
+      description: "Participants have 48 hours to develop innovative data science solutions. This intensive format encourages rapid prototyping, creative problem-solving, and collaborative innovation under time pressure with fellow participants.",
       color: "from-blue-500 to-cyan-500"
     },
     {
