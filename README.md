@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Next.js can be better than plain React.js for hackathon projects due to its built-in server-side rendering and routing capabilities that accelerate development time.
+
 ## Getting Started
 
 First, run the development server:
